@@ -11,7 +11,7 @@ def get_precise_location(api_key):
     location_data = response.json()
     return location_data
 
-api_key = 'AIzaSyCua11jotMEatjUiQLjlLdsV7T4lHSCHI4'
+api_key = 'Your API key'
 
 url = 'http://erp1.yushengstudio.net/'
 db = 'mydbs'
