@@ -3,7 +3,7 @@
 ### environments:
   - Jetson-nano
   - geopy
-  - Tensor Flow 10.0
+  - Tensorflow 10.0
 
 ### Usage: 
 Download the entire file, and use the following command to start detection. \
